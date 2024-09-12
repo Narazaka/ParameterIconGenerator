@@ -1,0 +1,19 @@
+{
+    "name": "Narazaka.VRChat.ParameterIconGenerator.Editor",
+    "rootNamespace": "",
+    "references": [
+        "lyuma.av3emulator",
+        "lyuma.av3emulator.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
